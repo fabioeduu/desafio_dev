@@ -1,8 +1,8 @@
-# Desafio Dev - C# Simples
+# Desafio Dev - C#
 
 Programa em C# com 3 desafios práticos.
 
-## 📌 Os 3 Desafios
+## Os 3 Desafios
 
 ### 1. Comissões de Vendedores
 Calcula comissão baseado no valor:
@@ -16,7 +16,7 @@ Registra entrada e saída de produtos com ID único.
 ### 3. Multa por Atraso
 Calcula juros compostos: 2.5% ao dia.
 
-## 🚀 Como Usar
+## Como Usar
 
 ```powershell
 cd c:\Users\grana\Desktop\Desafio_dev
@@ -25,7 +25,7 @@ dotnet run
 
 Ou clique duplo em `executar.bat`
 
-## 📁 Arquivos
+## Arquivos
 
 ```
 Desafio_dev/
@@ -36,7 +36,7 @@ Desafio_dev/
 └── DesafioDev.csproj
 ```
 
-## 📋 Menu
+## Menu
 
 Ao executar, escolha:
 - **1** = Comissões de vendedores
@@ -44,7 +44,7 @@ Ao executar, escolha:
 - **3** = Cálculo de multa
 - **0** = Sair
 
-## ✅ Requisitos
+## Requisitos
 
 - .NET 9.0 ou superior
 - Windows/Linux/Mac
