@@ -19,7 +19,7 @@ Calcula juros compostos: 2.5% ao dia.
 ## Como Usar
 
 ```powershell
-cd c:\Users\grana\Desktop\Desafio_dev
+git clone 
 dotnet run
 ```
 
